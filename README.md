@@ -1,6 +1,12 @@
 # CS131
 Stanford CS131 Computer Vision: Foundations and Applications
 
-- [Course Home: Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1718/)
-- [Schedule & Syllabus](http://vision.stanford.edu/teaching/cs131_fall1718/syllabus.html)
-- [Course cs131_notes Repo](https://github.com/StanfordVL/cs131_notes)
+- Official 
+    - [Course Home: Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1718/)
+    - [Schedule & Syllabus](http://vision.stanford.edu/teaching/cs131_fall1718/syllabus.html)
+    - [Course cs131_notes Repo](https://github.com/StanfordVL/cs131_notes)
+- Other people
+    - Ptython
+        - [henryln1/CS131](https://github.com/henryln1/CS131)
+    - Matlab
+        - [zyxrrr/cs131: Stanford University CS 131 Computer Vision: Foundations and Applications HomeWork Answer](https://github.com/zyxrrr/cs131)
