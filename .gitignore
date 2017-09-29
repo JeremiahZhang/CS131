@@ -1,0 +1,29 @@
+# 隐藏文件 不被push
+
+*.pyc
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+
+# one note file
+*.onetoc2
+
+# 
+_site
+
+# database
+db.sqlite3
+
+# migrations
+Tango-with-Django/tango_with_django_project/rango/migrations
+
+# cslewis
+# cslewis
+
+# 
+*.DS_Store
+
+# ipython notebook 
+*.ipynb_checkpoints
