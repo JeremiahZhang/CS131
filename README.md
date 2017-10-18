@@ -11,3 +11,5 @@ Stanford CS131 Computer Vision: Foundations and Applications
         - [henryln1/CS131](https://github.com/henryln1/CS131)
     - Matlab
         - [zyxrrr/cs131: Stanford University CS 131 Computer Vision: Foundations and Applications HomeWork Answer](https://github.com/zyxrrr/cs131)
+- reference:
+    - [foundations of vision](https://foundationsofvision.stanford.edu/preface/)
