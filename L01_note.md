@@ -25,7 +25,7 @@
     - mobile visual search. Google image search
     - self-driving cars. Tesla, Google, GM.
     - automatic checkout. Amazon Go
-    - vision-based interaction. Microsoft's Kinect 
+    - vision-based interaction. Microsoft's Kinect
     - augmented reality. AR
     - virtual reality. VR
 
@@ -73,7 +73,7 @@ Simulating human.
 
 ## 3 extracting information from images
 
-- vision as a measurement device. 
+- vision as a measurement device.
   - stereo cameras
   - stereo vision
 - a source of semantic information
@@ -88,5 +88,5 @@ Simulating human.
 [01_notes.pdf](http://vision.stanford.edu/teaching/cs131_fall1718/files/01_notes.pdf)
 
 
-[^1]:  Seymour A Papert. The summer vision project. 1966.
+[^1]:  Seymour A Papert. The summer vision project. 1966.  
 [^2]:  Ronald A Rensink, J Kevin O’Regan, and James J Clark. On the failure to  detect changes in scenes across brief interruptions. Visual cognition, 7(1-3):127–145, 2000.
